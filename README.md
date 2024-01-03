@@ -9,7 +9,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: https://github.com/maga-sv/stats-preview-card-component
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://stats-preview-card-component-ms.netlify.app/
 
 ## Author
 
