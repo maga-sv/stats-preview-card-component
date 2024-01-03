@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    // font-family: 'Lexend Deca';
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+body {
+    background: var(--mainBgColor);
+}
+
+:root {
+
+    --mainBgColor: #090b1a;
+    --cardBgColor: #1b1938;
+    --accentColor: #aa5cdb;
+    --imageFilterColor: hsla(277, 64%, 48%, 0.486);
+
+    --statsColor: #ffffff;
+    --mainParagraphColor: #ffffffbf;
+    --statHeadingsColor: #ffffff99;
+
+}
